@@ -1,0 +1,9 @@
+{
+    "model": "RandomForestRegressor",
+    "test_months": 12,
+    "mae": 909924.6676171431,
+    "rmse": 1154059.74313022,
+    "r2": 0.09307863119736381,
+    "baseline_mae": 1379265.4158333333,
+    "baseline_rmse": 1649637.697067693
+}
